@@ -1,27 +1,27 @@
 function stud() {
-    document.getElementById('swapImage').src = 'tunnel.jpg'
-    document.getElementById('response-text').innerText = 'The Lincoln Tunnel, an engineering marvel connecting Weehawken, New Jersey, to Midtown Manhattan in New York City, opened its portals to the public on December 22, 1937. With great anticipation and ceremony, this groundbreaking transportation link beneath the Hudson River marked a significant milestone in urban development and interstate connectivity.  '
+    document.getElementById('swapImage').src = 'stud.png'
+    document.getElementById('response-text').innerText = 'Student life at the University of Michigan is vibrant and diverse, with over 1,600 student organizations, including academic clubs, cultural groups, and community service initiatives. U-M boasts a strong Greek life presence, numerous performing arts opportunities, and a wide range of intramural and club sports. The campus is home to the Big Ten athletic teams, fostering a passionate school spirit. '
     document.getElementById('response-date').innerText = 'Student Life'
 }
 
 function finan() {
-    document.getElementById('swapImage').src = 'dababy.webp'
-    document.getElementById('response-text').innerText = 'DaBaby, the acclaimed American rapper and songwriter, was born on December 22, 1991, in Cleveland, Ohio. Born Jonathan Lyndale Kirk, his early life set the stage for a remarkable journey into the music industry. From humble beginnings, DaBabys birth marked the beginning of a future stars life. '
+    document.getElementById('swapImage').src = 'finan.png'
+    document.getElementById('response-text').innerText = 'The University of Michigan offers a range of financial aid options to make education more affordable, including need-based scholarships, grants, loans, and work-study programs. The Michigan Residency Tuition Guarantee ensures in-state students from families with incomes under $65,000 receive free tuition. Out-of-state students can access merit-based scholarships and need-based aid.'
     document.getElementById('response-date').innerText = 'Cost and Financial Aid'
 }
 function perc() {
-    document.getElementById('swapImage').src = 'tiktok.png'
-    document.getElementById('response-text').innerText = 'TikTok users often reference something they call the December 22 incident, which often leaves viewers confused as to what it means. The December 22 incident, or the TikTok slideshow incident, refers to the date when TikTok slideshows sharing adult content hidden in the slides were posted without moderators taking them down. '
-    document.getElementById('response-date').innerText = 'Fun Percentage'
+    document.getElementById('swapImage').src = 'perc.png'
+    document.getElementById('response-text').innerText = 'The University of Michigan has an acceptance rate of 17.7%, reflecting its highly selective admissions process. Applicants are evaluated based on academic excellence, extracurricular involvement, leadership potential, and personal qualities. Strong SAT or ACT scores, along with a competitive GPA, are typically expected. U-M values diversity and looks for students who will contribute to the vibrant campus community.'
+    document.getElementById('response-date').innerText = 'Acceptance Rate'
 }
 function acad() {
-    document.getElementById('swapImage').src = 'dreyfus.webp'
-    document.getElementById('response-text').innerText = 'Alfred Dreyfus, a French military officer, was sentenced on December 22, 1894, in a trial that would later become a symbol of injustice and anti-Semitism. Accused of passing military secrets to Germany, Dreyfus faced a court-martial that was marred by irregularities, including the suppression of exculpatory evidence. Despite a lack of conclusive proof, he was found guilty, stripped of his rank, and publicly degraded in a ceremony known as "degradation." '
+    document.getElementById('swapImage').src = 'acad.jpg'
+    document.getElementById('response-text').innerText = 'The University of Michigan offers a broad range of academic programs, including engineering, business, law, medicine, public health, nursing, social work, education, architecture, urban planning, pharmacy, music, theatre, dance, information science, environment and sustainability, kinesiology, and various liberal arts disciplines such as economics, political science, psychology, and biology.'
     document.getElementById('response-date').innerText = 'Academic Programs'
 }
 function alum() {
-    document.getElementById('swapImage').src = 'dadt.jpg'
-    document.getElementById('response-text').innerText = 'On December 22, 2010, a historic moment occurred in the United States military as the "Dont Ask, Dont Tell" (DADT) policy was officially repealed. Enacted in 1993, DADT prohibited openly gay, lesbian, and bisexual individuals from serving in the U.S. military. The repeal marked a significant stride towards equal rights and inclusivity, allowing LGBTQ+ service members to serve openly without fear of discrimination or discharge based on their sexual orientation'
+    document.getElementById('swapImage').src = 'alum.jpg'
+    document.getElementById('response-text').innerText = 'University of Michigan alumni have achieved remarkable success across various fields, contributing to business, politics, science, arts, and sports. U-M graduates include prominent leaders like former U.S. presidents, CEOs of major corporations such as Ford and Google, Nobel Prize winners, and renowned academics. Alumni are well-represented in industries like finance, healthcare, and law.'
     document.getElementById('response-date').innerText = 'Alumni Success'
 }
 
